@@ -145,4 +145,3 @@ AI/BI dashboard · Genie · forecast model (MLflow) · Delta Sharing
 | `rogers_combined_eda.ipynb` | Combined EDA of all three sites at 15 minutes; builds `silver_visits` and the gold tables |
 | `rogers_waterfront_eda-2.ipynb` | Waterfront EDA (latest run, with outputs) |
 | `rogers_waterfront_eda.ipynb` | Earlier Waterfront EDA |
-| `rogers_cell_tower_eda.py` | Generic multi-location EDA script |
